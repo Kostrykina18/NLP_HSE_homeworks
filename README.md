@@ -4,3 +4,4 @@
 ##### Homework 1: [Определение тональной окраски отзыва с помощью словаря](https://github.com/Kostrykina18/NLP_HSE_homeworks/blob/master/Homework_1.ipynb)
 ##### Homework 2: [Сравнение качества POS-теггеров и выделение синтаксических групп](https://github.com/Kostrykina18/NLP_HSE_homeworks/blob/master/Homework_2.ipynb)
 ##### Homework 2(bonus): [hw1 + hw2](https://github.com/Kostrykina18/NLP_HSE_homeworks/blob/master/Homework_1%2B2.ipynb)
+##### Homework 3: [Определение темы через Gensim и TF_IDF](https://github.com/Kostrykina18/NLP_HSE_homeworks/blob/master/Homework_3.ipynb)
